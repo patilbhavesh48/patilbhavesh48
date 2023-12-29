@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patilbhavesh48
+- 👋 Hi, I’m Bhavesh Patil
 - 👀 I’m interested in Data Analytics  & Business Intelligence
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking For Oppurtunity Where I can Utilise My skills To solve Real World Problems
