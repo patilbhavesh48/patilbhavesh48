@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bhavesh Patil, Currently Working as a Data Analyst
-- 
 - 👀 I’m interested in Data Analytics  & Business Intelligence
 - 🌱 I have Completed My Graduation in BCA
 - 💞️ I’m looking For Oppurtunity Where I can Utilise My skills To solve Real World Problems
